@@ -95,5 +95,5 @@ FEED_URI = 'storage/result.csv'
 FEED_FORMAT = 'csv'
 FEED_EXPORT_ENCODING = 'utf-8'
 FEED_EXPORT_FIELDS = [
-  'pk', 'email', 'name', 'phone', 'location', 'type', 'url', 'until_at',
+  'email', 'name', 'phone', 'location', 'type', 'path',
 ]
